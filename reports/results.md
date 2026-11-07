@@ -29,7 +29,7 @@ chains). Numbers come from `reports/metrics.json`, produced by `python -m src.ev
 | LightGBM, no holiday features | 7.3% | 7.7% | 9.2% |
 
 LightGBM cuts error against the better of Dayforce's two current methods by 21% (Longo's),
-9% (Moto) and 15% (Costa). Bias stays within ±2% for every model and client.
+8% (Moto) and 15% (Costa). Bias stays within ±2% for every model and client.
 
 ![WAPE, all stores](figures/09_wape_all_stores.png)
 

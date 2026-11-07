@@ -8,7 +8,7 @@ This project rebuilds a University of Toronto capstone (MIE490, with Dayforce) f
 data up: cleaning, external data, EDA, and a rolling backtest that compares the platform's
 current methods with statistical and machine-learning models.
 
-**Result:** one LightGBM model per client cuts forecast error (WAPE) by 9–21% compared with
+**Result:** one LightGBM model per client cuts forecast error (WAPE) by 8–21% compared with
 the best current method, with the largest gains on public holidays and retail events.
 
 ![WAPE by model and client](reports/figures/09_wape_all_stores.png)
