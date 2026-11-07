@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+# Client data is confidential: never commit it.
+data/
+outputs/forecasts/
