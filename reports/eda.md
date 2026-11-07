@@ -45,7 +45,7 @@ Moto starts 2022 at about 65% of its normal level, consistent with the Omicron w
 
 ![Holidays](figures/04_holidays.png)
 
-- **Longo's** is closed by law on most Ontario statutory holidays (Ontario's Retail Business Holidays Act). Family Day, Easter Sunday, Thanksgiving, Christmas, Boxing Day and New Year's Day are 100% closed. Other holidays are mixed: Good Friday 64% of stores closed, Victoria Day and Labour Day about 55%, Canada Day 78%. Gift days are strong: Valentine's Day +65% (worth verifying), Mother's Day +29%, Christmas Eve +28%.
+- **Longo's** is closed by law on most Ontario statutory holidays (Ontario's Retail Business Holidays Act). Family Day, Easter Sunday, Thanksgiving, Christmas, Boxing Day and New Year's Day are 100% closed. Other holidays are mixed: Good Friday 64% of stores closed, Victoria Day and Labour Day about 55%, Canada Day 78%. Gift days are strong: Valentine's Day +65% (checked: it holds in all three years on three different weekdays, Monday 2022, Tuesday 2023 and Wednesday 2024, at roughly 1.5–1.8× a normal same weekday, with 36–76% of stores above 1.3× their median; a grocer selling flowers, chocolate and dinner), Mother's Day +29%, Christmas Eve +28%.
 - **Moto** is a travel business, so bank holidays are peak days: Easter Monday +58%, Spring Bank Holiday +43%, Late Summer Bank Holiday +42%, Good Friday +29%.
 - **Costa** responds mildly to most holidays, apart from closures: Christmas Day almost entirely closed, Easter Sunday −49%, and the Queen's state funeral 93% closed.
 

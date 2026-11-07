@@ -63,3 +63,13 @@ A day is a spike when sales are more than 4× the store's centred 29-day median.
 - Moto has under 2 years of usable history, which is thin for yearly seasonality.
 - Costa dominates by store count, so metrics are reported per client.
 - Closed days are known in advance in practice (scheduled closures), so models are evaluated on trading days only.
+
+## Longo's weekend with no sales, 10–11 February 2024
+
+Every Longo's store reports zero sales on Saturday 10 and Sunday 11 February 2024, a normal
+weekend with no holiday. Groceries do not close chain-wide on an ordinary weekend, so this is
+almost certainly a gap in the extract rather than a real closure. The cleaning rules mark the
+two days as closed, so they never serve as a training target or as history. The only side
+effect is that the closure flags for the day before and after (9 and 12 February) are set.
+Longo's test windows start in April 2024, so the reported results are unaffected.
+
